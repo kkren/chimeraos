@@ -38,6 +38,7 @@ export PACKAGES="\
 	file \
 	ffmpegthumbnailer \
 	firejail \
+	fish \
 	flatpak \
 	fmt \
 	fuse-zip \
@@ -212,7 +213,6 @@ export AUR_PACKAGES="\
 	downgrade \
 	evdev-keepalive \
 	frzr \
-	fish \
 	gamescope-plus \
 	gamescope-session-steam-git \
 	gamescope-session-steam-plus-git \
@@ -254,8 +254,7 @@ export SERVICES="\
 	fstrim.timer \
 	haveged \
 	home-swapfile.swap \
-	inputplumber \
-	inputplumber-resume \
+	hhd_local \
 	lightdm \
 	nvidia-powerd \
 	powerstation \
