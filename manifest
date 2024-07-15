@@ -238,7 +238,6 @@ export AUR_PACKAGES="\
 	steam-powerbuttond-git \
 	steam-removable-media-git \
 	wyvern \
-	wqy-zenhei \
 	zenergy-dkms-git \
 "
 
