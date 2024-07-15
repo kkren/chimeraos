@@ -119,6 +119,7 @@ export PACKAGES="\
 	nautilus \
 	networkmanager \
 	nfs-utils \
+	noto-fonts-cjk \
 	noto-fonts-emoji \
 	nss-mdns \
 	openal \
@@ -206,11 +207,12 @@ export AUR_PACKAGES="\
 	downgrade \
 	evdev-keepalive \
 	frzr \
+	fish \
 	gamescope-plus \
 	gamescope-session-steam-git \
 	gamescope-session-steam-plus-git \
+	hhd \
 	hhfc-git \
-	inputplumber-bin \
 	legendary \
 	lib32-gamescope-plus \
 	libretro-dosbox-pure-git \
@@ -236,6 +238,7 @@ export AUR_PACKAGES="\
 	steam-powerbuttond-git \
 	steam-removable-media-git \
 	wyvern \
+	wqy-zenhei \
 	zenergy-dkms-git \
 "
 
