@@ -254,7 +254,7 @@ export SERVICES="\
 	fstrim.timer \
 	haveged \
 	home-swapfile.swap \
-	hhd_local@${USERNAME} \
+	hhd@${USERNAME} \
 	lightdm \
 	nvidia-powerd \
 	powerstation \
