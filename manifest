@@ -211,6 +211,7 @@ export AUR_PACKAGES="\
 	gamescope-plus \
 	gamescope-session-steam-git \
 	gamescope-session-steam-plus-git \
+	inputplumber-bin \
 	hhd \
 	hhfc-git \
 	legendary \
@@ -249,7 +250,7 @@ export SERVICES="\
 	fstrim.timer \
 	haveged \
 	home-swapfile.swap \
-	hhd_local \
+	hhd_local@${USERNAME} \
 	lightdm \
 	powerstation \
 	steam-powerbuttond \
