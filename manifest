@@ -207,6 +207,7 @@ export AUR_PACKAGES="\
 	ayaneo-platform-dkms-git \
 	ayn-platform-dkms-git \
 	bcm20702a1-firmware \
+	binder_linux-dkms \
 	boxtron \
 	chimera \
 	chimeraos-device-quirks-git \
@@ -243,6 +244,7 @@ export AUR_PACKAGES="\
 	steam-powerbuttond-git \
 	steam-removable-media-git \
 	wyvern \
+	waydroid \
 	zenergy-dkms-git \
 "
 
